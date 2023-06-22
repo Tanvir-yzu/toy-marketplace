@@ -13,5 +13,5 @@ Hosted in Firebase -> [Toy Village](https://toy-village-f6a74.web.app/)
 
 Mongodb
 
-client-side gitHub Repo  -> [client side](https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-Hacker1971.git)
-Server-side GitHub Repo  -> [server side](https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-Hacker1971.git)
+client-side gitHub Repo  -> [client side](https://github.com/Hacker1971/toy-marketplace.git)
+Server-side GitHub Repo  -> [server side](https://github.com/Hacker1971/toy-marketplace-ServerSide.git)
