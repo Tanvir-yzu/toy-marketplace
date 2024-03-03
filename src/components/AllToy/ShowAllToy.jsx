@@ -15,7 +15,6 @@ const ShowAllToy = ({ cart }) => {
         <h2 className="card-title">Sallar Name : {cart?.seller}</h2>
         <h2 className="card-title">Price : {cart?.price}</h2>
         <h2 className="card-title">Quantity : {cart?.quantity}</h2>
-
         <div className="card-actions justify-end">
           <button className="btn btn-primary">
             <Link to={`/details/${cart?._id}`}>Details</Link>
